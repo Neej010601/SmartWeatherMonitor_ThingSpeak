@@ -127,6 +127,7 @@
  C:/Users/Smart\ Joules/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/spi_flash/include/esp_spi_flash.h \
  C:/Users/Smart\ Joules/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/spi_flash/include/esp_spi_flash_counters.h \
  C:/Users/Smart\ Joules/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_hw_support/include/soc/esp32/spiram.h \
+ include/main.h \
  C:/Users/Smart\ Joules/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src/WiFi.h \
  C:/Users/Smart\ Joules/.platformio/packages/framework-arduinoespressif32/cores/esp32/Print.h \
  C:/Users/Smart\ Joules/.platformio/packages/framework-arduinoespressif32/cores/esp32/IPv6Address.h \
@@ -186,6 +187,11 @@
  C:/Users/Smart\ Joules/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src/WiFiUdp.h \
  C:/Users/Smart\ Joules/.platformio/packages/framework-arduinoespressif32/cores/esp32/Udp.h \
  C:/Users/Smart\ Joules/.platformio/packages/framework-arduinoespressif32/cores/esp32/cbuf.h \
+ .pio/libdeps/esp32doit-devkit-v1/Arduino_JSON/src/Arduino_JSON.h \
+ .pio/libdeps/esp32doit-devkit-v1/Arduino_JSON/src/JSON.h \
+ .pio/libdeps/esp32doit-devkit-v1/Arduino_JSON/src/JSONVar.h \
+ .pio/libdeps/esp32doit-devkit-v1/ThingSpeak/src/ThingSpeak.h \
+ include/HTTPGet.h \
  C:/Users/Smart\ Joules/.platformio/packages/framework-arduinoespressif32/libraries/HTTPClient/src/HTTPClient.h \
  C:/Users/Smart\ Joules/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src/WiFiClient.h \
  C:/Users/Smart\ Joules/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src/WiFiClientSecure.h \
@@ -226,8 +232,4 @@
  C:/Users/Smart\ Joules/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/port/include/aes_alt.h \
  C:/Users/Smart\ Joules/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/port/include/aes/esp_aes.h \
  C:/Users/Smart\ Joules/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/hal/include/hal/aes_types.h \
- C:/Users/Smart\ Joules/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/error.h \
- .pio/libdeps/esp32doit-devkit-v1/Arduino_JSON/src/Arduino_JSON.h \
- .pio/libdeps/esp32doit-devkit-v1/Arduino_JSON/src/JSON.h \
- .pio/libdeps/esp32doit-devkit-v1/Arduino_JSON/src/JSONVar.h \
- .pio/libdeps/esp32doit-devkit-v1/ThingSpeak/src/ThingSpeak.h
+ C:/Users/Smart\ Joules/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/error.h

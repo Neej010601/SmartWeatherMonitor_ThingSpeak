@@ -1,6 +1,6 @@
 #include <Arduino.h>
 #include "main.h"
-#include "httpGet.h"
+#include "HTTPGet.h"
 
 
 void setup() {
